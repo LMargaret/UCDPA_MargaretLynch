@@ -1,0 +1,1 @@
+Extract ZIP file parts for 2019 data.
